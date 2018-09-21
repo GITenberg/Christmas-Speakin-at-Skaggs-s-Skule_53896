@@ -1,11 +1,16 @@
 _repo: Christmas-Speakin-at-Skaggs-s-Skule_53896
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53896-h/images/cover.jpg
 creator:
   author:
     agent_name: Irish, Marie
     gutenberg_agent_id: '47603'
     url: http://www.gutenberg.org/2009/agents/47603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53896#Christmas-Speakin-at-Skaggs-s-Skule
 gutenberg_issued: '2017-01-05'
 gutenberg_type: Text
 identifiers:
